@@ -1,5 +1,4 @@
-![I am md-arif25](https://github.com/md-arif25/md-arif25/blob/main/code.png)
-
+![I am md-arif25](https://github.com/md-arif25/md-arif25/blob/main/code.png?raw=true)
 <h1 align="center">Hi 👋, I'm md arif </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center"> i am a students of Hablu Programmer</h4>
